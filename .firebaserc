@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "masaj-appointment": {
+      "hosting": {
+        "masaj-appointment": [
+          "masaj-appointment"
+        ]
+      }
+    }
+  }
+}
